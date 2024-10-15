@@ -1,4 +1,4 @@
-//Square Pattern
+//Square Pattern with stars
 #include<iostream>
 using namespace std;
 
