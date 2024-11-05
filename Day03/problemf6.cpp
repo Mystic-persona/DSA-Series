@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-int fiboSeries(int n){
+int fiboSeries(int n) {
     int first=0, second=1, next;
     cout<<"The fibonacci series upto "<<n<<" terms:"<<endl;
     for(int i=0;i<n;i++){
