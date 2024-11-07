@@ -1,4 +1,5 @@
 //Find the largest element in an array 
+//Brute Force Approach
 #include<bits/stdc++.h>
 using namespace std;
  
